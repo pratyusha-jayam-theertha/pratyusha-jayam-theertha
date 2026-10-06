@@ -1,16 +1,29 @@
-## Hi there 👋
+# Pratyusha Jayam Theertha
 
-<!--
-**pratyusha-jayam-theertha/pratyusha-jayam-theertha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Robotics Master's Student | Robot Learning & Humanoid Manipulation**
 
-Here are some ideas to get you started:
+Researcher working on imitation learning, XR teleoperation, and humanoid manipulation, with a background in real-time embedded control for medical robotics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Research Interests
+
+- Imitation Learning
+- Humanoid Manipulation
+- XR Teleoperation
+- Dexterous Hands & Tactile Sensing
+- Sim-to-Real Robotics
+
+## Current Work
+
+- Humanoid Teleoperation & Demonstration Data Pipelines
+- Isaac Sim / Isaac Lab, LeRobot & ACT
+- Real-Robot Policy Evaluation
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/pratyusha-jt/)
+
+
+<!-- Add this section when your first project is finished:
+## Projects
+- **[Project name](link)**: one sentence on what it does and the result
 -->
